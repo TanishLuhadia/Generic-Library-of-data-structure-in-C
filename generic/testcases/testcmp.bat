@@ -1,0 +1,1 @@
+gcc sort.c -o sort.exe -I ..\include -L ..\lib -ltm
